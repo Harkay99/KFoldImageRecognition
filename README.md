@@ -1,6 +1,3 @@
-# ProjectAssignmentFS_5
-
-# Team FS_5
 
 | Name | Student ID | Handle |
 | ---- | ---------- | ------ |
